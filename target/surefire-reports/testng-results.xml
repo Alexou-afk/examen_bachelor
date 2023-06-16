@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-16T15:07:54 CEST" name="exo1.EmployeeManagerTest" finished-at="2023-06-16T15:07:54 CEST" duration-ms="35">
+    <groups>
+    </groups>
+    <test started-at="2023-06-16T15:07:54 CEST" name="Command line test" finished-at="2023-06-16T15:07:54 CEST" duration-ms="35">
+      <class name="exo1.EmployeeManagerTest">
+        <test-method signature="CalculateExperienceMultiplier3AnneeExperience()[pri:0, instance:exo1.EmployeeManagerTest@5e25a92e]" started-at="2023-06-16T15:07:54 CEST" name="CalculateExperienceMultiplier3AnneeExperience" finished-at="2023-06-16T15:07:54 CEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalculateExperienceMultiplier3AnneeExperience -->
+        <test-method signature="testCalculateSalaryIntermediaire5AnneeExperience()[pri:0, instance:exo1.EmployeeManagerTest@5e25a92e]" started-at="2023-06-16T15:07:54 CEST" name="testCalculateSalaryIntermediaire5AnneeExperience" finished-at="2023-06-16T15:07:54 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateSalaryIntermediaire5AnneeExperience -->
+        <test-method signature="testCalculateSalaryJunior1AnneeExperience()[pri:0, instance:exo1.EmployeeManagerTest@5e25a92e]" started-at="2023-06-16T15:07:54 CEST" name="testCalculateSalaryJunior1AnneeExperience" finished-at="2023-06-16T15:07:54 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateSalaryJunior1AnneeExperience -->
+        <test-method signature="testCalculateSalarySenior10AnneeExperience()[pri:0, instance:exo1.EmployeeManagerTest@5e25a92e]" started-at="2023-06-16T15:07:54 CEST" name="testCalculateSalarySenior10AnneeExperience" finished-at="2023-06-16T15:07:54 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateSalarySenior10AnneeExperience -->
+        <test-method signature="testCalculateSalarySenior20AnneeExperience()[pri:0, instance:exo1.EmployeeManagerTest@5e25a92e]" started-at="2023-06-16T15:07:54 CEST" name="testCalculateSalarySenior20AnneeExperience" finished-at="2023-06-16T15:07:54 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculateSalarySenior20AnneeExperience -->
+      </class> <!-- exo1.EmployeeManagerTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- exo1.EmployeeManagerTest -->
+</testng-results>
