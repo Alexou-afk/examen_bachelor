@@ -70,4 +70,5 @@ public class InventoryManagerTest {
     public void NonExistingProduct(String productId) {
         assertEquals(0, inventoryManager.getStockAvailability(productId));
     }
+    // commentaire à la con
 }
