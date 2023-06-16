@@ -42,9 +42,9 @@ public class EmployeeManagerTest {
 
     @Test
     public void CalculateExperienceMultiplier3AnneeExperience() {
-        int yearsOfExperience = 3;
+        int annee_experience = 3;
         double expectedMultiplier = 1.15;
-        double actualMultiplier = employeeManager.calculateExperienceMultiplier(yearsOfExperience);
+        double actualMultiplier = employeeManager.calculateExperienceMultiplier(annee_experience);
         assertEquals(expectedMultiplier, actualMultiplier, 0.001);
     }
 
